@@ -13,8 +13,12 @@
 const SCHEDULE_TEMPLATE = {
     'default': [
         {
-            start: '14:00',
-            end: '18:00'
+            start: '8:30',
+            end: '13:30'
+        },
+        {
+            start: '14:30',
+            end: '17:30'
         }
     ],
     'Fri':[
